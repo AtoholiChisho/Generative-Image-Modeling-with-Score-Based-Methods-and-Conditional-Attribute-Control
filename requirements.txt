@@ -1,0 +1,7 @@
+Python==3.10.9
+torch==2.3.0+cu121
+tqdm==4.66.4
+torchvision==0.18.0+cu121
+matplotlib==3.5.1
+einops==0.8.0
+easydict==1.13
